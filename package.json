@@ -1,6 +1,6 @@
 {
   "name": "@alexreiling/utilities",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Helper methods and classes for node projects",
   "main": "index.js",
   "repository": "alexreiling/utilities",
