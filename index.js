@@ -1,2 +1,2 @@
-var exports = module.exports = {workers:2}
-exports.workers =2
+var exports = module.exports = {}
+exports.workers = require('./workers')
